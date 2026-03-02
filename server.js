@@ -122,7 +122,7 @@ async function createTables() {
                 id VARCHAR(50) PRIMARY KEY,
                 name VARCHAR(255) NOT NULL,
                 email VARCHAR(255) NOT NULL,
-                created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+                created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
                 
             );
         `);
@@ -145,7 +145,7 @@ async function createTables() {
                 FOREIGN KEY (${TABLA6_nombre}_id) REFERENCES ${TABLA6_nombre}(id) ON DELETE CASCADE
             );
         `);
-        
+        console.log(`✓ ${TABLA7_nombre}`);
     } catch (error) {
         console.error('Error:', error);
     }
