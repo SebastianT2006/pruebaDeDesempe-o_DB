@@ -151,7 +151,7 @@ async function createTables() {
     }
 }
 createTables();
-/*
+
 // ==================== ENDPOINT: SUBIR A TABLA1 ====================
 app.post(`/api/upload/${TABLA1_nombre}`, upload.single('archivo'), async (req, res) => {
     if (!req.file) return res.status(400).json({ error: 'No file' });
@@ -375,4 +375,4 @@ process.on('SIGINT', async () => {
     await client.close();
     await pool.end();
     process.exit(0);
-});*/
+});
