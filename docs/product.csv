@@ -1,0 +1,22 @@
+id,category_id,sku_id,name,unit_price
+1,1,1,Laptop HP Pavilion 15,3500000
+2,2,2,Mouse Logitech G203,120000
+3,2,3,USB Kingston 64GB,45000
+4,3,4,Silla Ergonomica Office,450000
+5,1,5,Monitor Samsung 24,600000
+6,2,6,Teclado Mecanico Redragon,250000
+7,3,7,Escritorio Estandar Blanco,320000
+8,3,8,Lampara LED Escritorio,80000
+9,2,9,Audifonos Sony WH-1000,1200000
+10,1,10,iPad Air 64GB,2800000
+11,2,11,Funda iPad Air,90000
+12,1,12,Monitor LG 27 UltraGear,1100000
+13,2,13,Cable HDMI 2.0 3m,35000
+14,3,14,Sofa Cama Gris,1500000
+15,1,15,Impresora Epson EcoTank,950000
+16,4,16,Resma Papel Carta 500,25000
+17,1,17,Parlante JBL Flip 6,550000
+18,5,18,Cafetera Oster 12 Tazas,180000
+19,5,19,Batidora Inmersion,120000
+20,1,20,Microfono Shure SM58,450000
+21,4,21,Marcadores Sharpie x12,35000

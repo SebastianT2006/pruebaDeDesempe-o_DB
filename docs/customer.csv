@@ -1,0 +1,14 @@
+id,name,lastname,email,address,city_id,phone
+1,Juan,Perez,juan.perez@mail.com,Calle 123 #45-67,1,3001234567
+2,Maria,Rodriguez,maria.rod@gmail.com,Cra 80 #10-20,2,3109876543
+3,Carlos,Gomez,carlos.g@hotmail.com,Av Siempre Viva 123,3,3205551234
+4,Ana,Torres,ana.torres@outlook.com,Diag 50 #20-10,4,3004445566
+5,Pedro,Martinez,pedro.martinez@yahoo.com,Calle 100 #15-20,1,3151112233
+6,Luisa,Fernandez,luisa.fer@gmail.com,Tv 4 #5-12,5,3169998877
+7,Jorge,Ramirez,jorge.r@empresa.com,Cra 7 #72-10,1,3112223344
+8,Sofia,Vergara,sofia.v@cine.com,Calle 10 #10-10,6,3007776655
+9,Miguel,Angel,miguel.angel@art.com,Av El Poblado 45,2,3123334455
+10,Elena,Nito,elena.nito@broma.com,Calle Falsa 123,7,3185550000
+11,Laura,Pausini,laura.p@musica.com,Via Roma 1 Italia,1,3001112222
+12,Andres,Cepeda,andres.c@musica.com,Calle 85 #11-20,1,3105558888
+13,Camila,Cabello,camila.c@havana.com,Calle 50 #50-50,2,3009990000
